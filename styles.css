@@ -1,0 +1,12 @@
+/* demo only */
+[class*="col-"] {
+  min-height:200px;
+  line-height:200px;
+  text-align:center;
+  color:#fff;
+  font-size:2em;
+}
+
+.boxlogo {background:red;}
+.boxb {background:green;}
+.boxa {background:blue;}
